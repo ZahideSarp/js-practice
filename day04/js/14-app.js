@@ -5,7 +5,7 @@ let img= document.getElementById("lamp");
 
 document.getElementById("on").addEventListener("click",()=>{
 
-  img.src="/day04/img/police-bmw.gif"
+  img .src="/day04/img/police-bmw.gif"
 
 })
 
